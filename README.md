@@ -19,4 +19,4 @@ When you answer each prompt the password will generate the matches from the sele
 Then password will be displayed in the page so you can copy it.
 
 # Installation
-https://github.com/MClarke9k9/PasswordGenerator
+https://mclarke9k9.github.io/PasswordGenerator/
