@@ -240,4 +240,4 @@
                          document.getElementById("password").innerHTML=showPassword;
                      }
                      return word;
-                 }
+              }
