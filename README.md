@@ -16,7 +16,7 @@ When prompted for character types to include in the password it will ask you to 
 
 When you answer each prompt the password will generate the matches from the selected criteria
 
-Then password will be displayed in the page so you can copy it.
+Then password will be displayed in the page so you can copy it
 
 ## Installation
 https://mclarke9k9.github.io/PasswordGenerator/
